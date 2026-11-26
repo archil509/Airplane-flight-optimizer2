@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\.GEMINI\ANTIGRAVITY\SCRATCH\DIJKSTRA-FLIGHT-OPTIMIZER\CPP\BUILD\CMAKEFILES\AB465D4AE53F01037860074A6D2955E5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/admin/.gemini/antigravity/scratch/dijkstra-flight-optimizer/cpp -BC:/Users/admin/.gemini/antigravity/scratch/dijkstra-flight-optimizer/cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/admin/.gemini/antigravity/scratch/dijkstra-flight-optimizer/cpp/build/dijkstra_flight_optimizer_cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

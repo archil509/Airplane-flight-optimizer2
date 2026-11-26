@@ -1,0 +1,19 @@
+Start testing: Nov 26 10:34 India Standard Time
+----------------------------------------------------------
+1/1 Testing: FlightEngineUnitTests
+1/1 Test: FlightEngineUnitTests
+Command: "C:/Users/admin/.gemini/antigravity/scratch/dijkstra-flight-optimizer/cpp/build/Debug/test_flight_engine.exe"
+Directory: C:/Users/admin/.gemini/antigravity/scratch/dijkstra-flight-optimizer/cpp/build
+"FlightEngineUnitTests" start time: Nov 26 10:34 India Standard Time
+Output:
+----------------------------------------------------------
+All C++17 Dijkstra flight engine unit tests passed.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"FlightEngineUnitTests" end time: Nov 26 10:34 India Standard Time
+"FlightEngineUnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 26 10:34 India Standard Time
