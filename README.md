@@ -1,4 +1,4 @@
-# Airplane Flight Optimizer — Dijkstra Shortest-Path Aviation Network Explorer
+# Airplane Flight Optimizer —  Shortest-Path Aviation Network Explorer
 
 An end-to-end **Dijkstra-based Flight Route Optimization** system built with a **React + Vite** interactive network visualizer, a **JavaScript Graph Engine** (`MinHeap.js`, `haversine.js`, `Graph.js`, `dijkstra.js`), a **Node.js / Express REST API**, and a portable **C++17 / CMake** performance layer.
 
